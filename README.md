@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ### :jack_o_lantern: In my spare time, I write technical articles related to my projects or on topics I am currently working on. 
 
 ### Here's a link to my articles if you want to read(I would love feedback, suggestions and constructive criticism)
-### :herb: https://medium.com/@suchandra1234
 ### :herb: https://towardsdatascience.com/beginners-guide-to-transfer-learning-on-google-colab-92bb97122801
 ### :herb: https://www.freecodecamp.org/news/author/suchandra/
+### :herb: https://medium.com/@suchandra1234
 
 ### That's all for now. Take care fellow coder.
