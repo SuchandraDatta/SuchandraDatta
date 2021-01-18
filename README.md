@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 ### :herb: https://www.freecodecamp.org/news/author/suchandra/
 ### :herb: https://medium.com/@suchandra1234
 
+### LinkedIn Profile: https://www.linkedin.com/in/suchandra-datta-9723801a4/
 ### That's all for now. Take care fellow coder.
