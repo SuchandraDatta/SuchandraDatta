@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ### :herb: https://towardsdatascience.com/beginners-guide-to-transfer-learning-on-google-colab-92bb97122801
 ### :herb: https://www.freecodecamp.org/news/author/suchandra/
 ### LinkedIn Profile: https://www.linkedin.com/in/suchandra-datta-9723801a4/
-### That's all for now. Take care fellow coder.
+### Scroll below for my projects
