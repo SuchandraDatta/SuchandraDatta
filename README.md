@@ -10,5 +10,6 @@ Here's a link to my articles if you want to read(I would love feedback, suggesti
 <br/>
 <br/>:herb: https://towardsdatascience.com/beginners-guide-to-transfer-learning-on-google-colab-92bb97122801
 <br/>:herb: https://www.freecodecamp.org/news/author/suchandra/
+<br/><br/>
 ### LinkedIn Profile: https://www.linkedin.com/in/suchandra-datta-9723801a4/
 
