@@ -1,4 +1,4 @@
-<img height=300 src="https://user-images.githubusercontent.com/41965125/151169678-7fd93286-d12b-44fb-9cbb-1c1bcb8d0794.png">
+<p align="center"><img height=250 src="https://user-images.githubusercontent.com/41965125/151169678-7fd93286-d12b-44fb-9cbb-1c1bcb8d0794.png"></p>
 <br/>:unicorn: I am a passionate programmer in :heartpulse: with software development
 <br/>:computer: I enjoy solving real-world problems with code
 <br/>:scroll: Main areas of interest are <b>backend development</b> and <b>machine learning</b>
